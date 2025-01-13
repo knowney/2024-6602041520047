@@ -1,6 +1,7 @@
 POST http://localhost:8080/api/auth/local
 Content-Type: application/json
+
 {
-    "indentifier":"chonlatarn",
-    "password":"Known3y@12867",
+    "identifier": "s6602041520047@email.kmutnb.ac.thn",
+    "password": "Known3y@128677"
 }
